@@ -10,7 +10,7 @@ Hola, soy Kathy 👩‍💻. Estudio Ingeniería de Software y me interesa cómo
 🎯 Estoy en camino de convertirme en desarrolladora fullstack, con una mirada humana y consciente de lo que construyo.
 
 🤝 Si compartimos intereses o tienes un proyecto donde la tecnología quiera sumar valor, ¡conversemos!
-Probando<br>
+<br>
 
 
 # 💻 Tech Stack:
