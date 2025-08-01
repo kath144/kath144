@@ -1,4 +1,15 @@
 # 💫 About Me:
+Hola, soy Kathy 👩‍💻. Estudio Ingeniería de Software y me interesa cómo la tecnología puede resolver problemas reales, conectar personas y generar un impacto positivo. Disfruto especialmente el desarrollo web y el diseño de interfaces centradas en el usuario.
+
+🛠️ He trabajado en proyectos usando HTML, CSS, JavaScript, React y Java con Spring Boot. Me gusta construir experiencias que no solo funcionen, sino que también se sientan accesibles y agradables de usar.
+
+🧩 Me motiva aprender, entender cómo funcionan las cosas y colaborar con otros. Creo que el trabajo en equipo y el intercambio de ideas enriquecen cualquier proyecto.
+
+🌍 Más allá del código, me importa el contexto en el que vivimos. Me inspiran los proyectos con enfoque social, la creatividad y las iniciativas que combinan tecnología con sensibilidad y propósito.
+
+🎯 Estoy en camino de convertirme en desarrolladora fullstack, con una mirada humana y consciente de lo que construyo.
+
+🤝 Si compartimos intereses o tienes un proyecto donde la tecnología quiera sumar valor, ¡conversemos!
 Probando<br>
 
 
